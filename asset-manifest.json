@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movich/static/css/main.5c989ce7.css",
+    "main.js": "/movich/static/js/main.8ff28cc3.js",
+    "static/js/488.022baf35.chunk.js": "/movich/static/js/488.022baf35.chunk.js",
+    "index.html": "/movich/index.html",
+    "static/media/search.svg": "/movich/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.5c989ce7.css.map": "/movich/static/css/main.5c989ce7.css.map",
+    "main.8ff28cc3.js.map": "/movich/static/js/main.8ff28cc3.js.map",
+    "488.022baf35.chunk.js.map": "/movich/static/js/488.022baf35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c989ce7.css",
+    "static/js/main.8ff28cc3.js"
+  ]
+}
